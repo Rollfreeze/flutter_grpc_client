@@ -45,4 +45,4 @@ app.*.map.json
 /android/app/release
 
 .vscode/
-lib/proto/generated
+lib/network/proto/generated/
